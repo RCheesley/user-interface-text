@@ -10,6 +10,10 @@ Our registered trademark is "Joomla!" including the exclamation point.  (The exc
 ##### Rule: No Bang!  
 References to Joomla in language strings should not include the exclamation point unless it is at the end of a sentence that is intended to be exclamatory. 
 
+###### Rule of thumb
+Whenever you can substitute "your Joomla CMS" in place of "Joomla" and still make sense, then it's descriptive and no bang needed.
+
+
 ##### Exception to the Rule:  Trademarks that contain Joomla
 Whenever the Joomla name is part of or nested inside another multi-word Joomla-related trademark or service mark then the exclamation point should be used even though it is mid-sentence.  If the use is a proper name it should have capitalised initials, Joomla should include the exclamation point and it should be followed by a TM indicia.  
 Examples:  References to the Joomla! Extensions Directory&trade;, the Joomla! Framework&trade; or Joomla! 3.4 as a product.
