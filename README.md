@@ -4,13 +4,11 @@ User Interface Text
 A repository for the en-GB style guide of Joomla! language strings.
 
 ### Contents
-[Process](process-for-plt.md)  
 [A-Z](A-Z.md)  
 [Action or description](Action or description.md)  
 [Capitalisation](capitalisation.md)  
 [Punctuation](punctuation.md)  
 [Use of the Joomla! name] (joomla_name_usage.md)  
-[String naming] (string_naming.md)  
 [Words to Watch](words2watch.md)  
 [References](references.md)  
 [Screen Example](Screen_Example.md)  
