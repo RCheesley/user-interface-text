@@ -14,7 +14,6 @@ A repository for the en-GB style guide of Joomla! language strings.
 [Words to Watch](words2watch.md)  
 [References](references.md)  
 [Screen Example](Screen_Example.md)  
-[To Do List](todo.md)
 
 
 ###Abstract
