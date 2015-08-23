@@ -11,8 +11,6 @@ A repository for the en-GB style guide of Joomla! language strings.
 [Use of the Joomla! name] (joomla_name_usage.md)  
 [Words to Watch](words2watch.md)  
 [References](references.md)  
-[Screen Example](Screen_Example.md)  
-
 
 ###Abstract
 * The official language of Joomla is en-GB and yet the actual strings we use have been created over 10 years mainly by people who are not native en-GB speakers. 
